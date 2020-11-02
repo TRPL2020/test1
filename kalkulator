@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// ini komentar dari tiawan@pei.ac.id ya....
 main() {
  char pilih;
  float bil1, bil2, hasil;
